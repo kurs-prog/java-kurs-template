@@ -1,4 +1,4 @@
-# Java-Kurs Template (Work in Progress) hi
+# Java-Kurs Template (Work in Progress)
 
 Dieses Repository entsteht aktuell als Template für einen strukturierten Java-Kurs. Es richtet sich an Einsteiger:innen und Entwickler:innen, die Java von Grund auf lernen oder auffrischen möchten.
 

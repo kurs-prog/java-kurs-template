@@ -2,6 +2,7 @@
 
 Dieses Repository entsteht aktuell als Template für einen strukturierten Java-Kurs. Es richtet sich an Einsteiger:innen und Entwickler:innen, die Java von Grund auf lernen oder auffrischen möchten.
 
+
 > ⚠️ **Hinweis:** Dieses Projekt befindet sich noch im Aufbau. Inhalte, Struktur und Dokumentation werden laufend erweitert.
 
 ## Ziel des Projekts
@@ -32,4 +33,4 @@ Ich freue mich über Feedback, Ideen oder Kollaborationen – besonders aus dem 
 
 ---
 
-🚧 Dieses Repository wird regelmäßig aktualisiert. Schauen Sie gern wieder vorbei!
+`🚧 Dieses Repository wird regelmäßig aktualisiert. Schauen Sie gern wieder vorbei!`
